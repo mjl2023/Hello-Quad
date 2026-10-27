@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Hello Quad/Hello Quad.vcxproj" Id="aa0458c3-5767-49f1-aa42-54250248b5e6" />
+</Solution>
